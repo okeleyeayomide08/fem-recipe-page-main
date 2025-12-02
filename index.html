@@ -43,12 +43,17 @@
       font-style: normal;
       color: #302C2B;
       line-height: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
 
     .Container {
       background-color: white;
       padding: 30px;
       border-radius: 20px;
+      width: 50%;
+      margin: 50px auto;
     }
 
     .Header-hero-image {
@@ -104,6 +109,16 @@
 
     .Nutrition table tr:last-child td {
       border-bottom: none;
+    }
+
+    @media (max-width: 420px) {
+      body{
+        display: block;
+      }
+      .Container{
+        margin: 5px;
+        width: fit-content;
+      }
     }
   </style>
 </head>
