@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [This is solution URL ](https://github.com/okeleyeayomide08/fem-recipe-page-main)
+- Live Site URL: [This is live site URL](https://fem-recipe-page-main-orcin.vercel.app/)
 
 ## My process
 
